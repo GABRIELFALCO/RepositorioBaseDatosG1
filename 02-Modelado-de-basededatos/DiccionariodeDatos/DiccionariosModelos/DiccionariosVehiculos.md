@@ -1,7 +1,7 @@
 # 📘 Diccionario de Datos – Vehiculos
 *Tabla Clientes*
 
-| Campo         | Tipo de Dato | Tamaño | PK  | FK  | Nulo | Único | Restricciones / CHECK | Referencia a | Descripción |
+| Campo         | Tipo de Dato | Tamaño | PK  | FK  | Nulo | Único  | Restricciones / CHECK | Referencia a | Descripción |
 |---------------|--------------|--------|-----|-----|------|--------|--------------|--------------|---------------------------------|
 | idCliente   | INT          | -      | ✅  | ❌  | ❌   | ✅     | -            | -            | Identificador del cliente       |
 | ap. Paterno | NVARCHAR     | 50     | ❌  | ❌  | ❌   | ❌     | -            | -            | Apellido paterno del cliente    |
