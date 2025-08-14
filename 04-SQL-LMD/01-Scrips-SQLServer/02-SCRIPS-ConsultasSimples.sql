@@ -487,6 +487,7 @@ WHERE pe.Importe >25000;
 --MOSTRANDO EL NUMERO DE PEDIDO, EL NOMBRE DEL CLIENTE QUE
 --LO ENCARGO Y EL NOMBRE DEL REPRESENTANTE ASIGNADO AL CLIENTE,
 --Y EL IMPORTE
+--ultimos
 
 SELECT p.Num_Pedido AS [Numero del pedido],
 	   cl.Empresa AS [Nombre del cliente],
